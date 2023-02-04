@@ -1,88 +1,10 @@
 # Assignment-6
-Output of the following code is present below in text format
-Screenshot are attached below too.
+Output's Screenshot are attached below too.
 
+All the output is present below.
+code running error free and handling many edge cases.
 
-Cart Empty Now, Enjoy Shopping
-
-Enter your choice accordingly:
-1: Add item
-2: Remove item
-3: Display all items in cart
-4: Total amount
-5: Exit
-1
-
-Items Present In Mall
-Name: shirt     Quantity: 5     Price: 5000
-Name: bag       Quantity: 12    Price: 2500
-Name: soap      Quantity: 15    Price: 35
-Name: shoe      Quantity: 25    Price: 2000
-Name: shaving gel       Quantity: 20    Price: 50
-Enter the name of the product you want to purchase
-bag
-Enter the quantity you want to purchase
-1
-Item added in cart
-
-Enter your choice accordingly:
-1: Add item
-2: Remove item
-3: Display all items in cart
-4: Total amount
-5: Exit
-1
-
-Items Present In Mall
-Name: shirt     Quantity: 5     Price: 5000
-Name: bag       Quantity: 11    Price: 2500
-Name: soap      Quantity: 15    Price: 35
-Name: shoe      Quantity: 25    Price: 2000
-Name: shaving gel       Quantity: 20    Price: 50
-Enter the name of the product you want to purchase
-shirt
-Enter the quantity you want to purchase
-2
-Item added in cart
-
-Enter your choice accordingly:
-1: Add item
-2: Remove item
-3: Display all items in cart
-4: Total amount
-5: Exit
-1
-
-Items Present In Mall
-Name: shirt     Quantity: 3     Price: 5000
-Name: bag       Quantity: 11    Price: 2500
-Name: soap      Quantity: 15    Price: 35
-Name: shoe      Quantity: 25    Price: 2000
-Name: shaving gel       Quantity: 20    Price: 50
-Enter the name of the product you want to purchase
-soap
-Enter the quantity you want to purchase
-3
-Item added in cart
-
-Enter your choice accordingly:
-1: Add item
-2: Remove item
-3: Display all items in cart
-4: Total amount
-5: Exit
-2
-Items present in cart
-Bag----->1
-Soap----->3
-Shirt----->2
-Enter the name of the product to be removed
-Enter 'no' to stop removing
-soap
-Enter the quantity to be removed
-1
-Enter the name of the product to be removed
-Enter 'no' to stop removing
-no
-Enter your choice accordingly:
-5
+![Screenshot (102)](https://user-images.githubusercontent.com/68680320/216771162-c6075d2b-fc55-44b7-98d5-6bd585c293d1.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/68680320/216771169-095c82c3-a859-41ba-b8bd-8d7607fb154d.png)
+![Screenshot (104)](https://user-images.githubusercontent.com/68680320/216771170-0e4ae250-2d76-4177-aa08-cf2116d58a90.png)
+![Screenshot (105)](https://user-images.githubusercontent.com/68680320/216771172-8fee1c7c-ad17-4704-9283-157edb054f19.png)
