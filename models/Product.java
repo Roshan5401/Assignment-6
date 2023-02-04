@@ -4,7 +4,7 @@ public class Product {
     String name;
     String brand;
     int price;
-    static int quantity;
+    int quantity;
     
     public Product() {
         this.name = "";

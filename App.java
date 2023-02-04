@@ -25,9 +25,11 @@ public class App {
         name_prod.put("bag",p5);
         
         Customer c1=new Customer("Roshan","roshansingh.ns@gmail.com",905151, "12345678",name_prod);
+        Cart cart1=c1.geCart();
+
+        cust_cart.put(c1, cart1);
+
         
-
-
 
         
 
